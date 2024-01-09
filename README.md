@@ -3,9 +3,9 @@
 ### About Me
 
 #### I have no idea what I am doing.
--Not a
--Single
--Clue
+1. Not a
+1. Single
+1. Clue
 <!--
 **C1trusOrange/C1trusOrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
