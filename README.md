@@ -6,6 +6,10 @@
 1. Not a
 1. Single
 1. Clue
+
+__NADA__
+_ZIP_
+_**ZILCH**_
 <!--
 **C1trusOrange/C1trusOrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
