@@ -1,4 +1,8 @@
-### Hi there 👋
+# HELLO
+## This is a ReadMe
+### About Me
+
+#### I have no idea what I am doing.
 
 <!--
 **C1trusOrange/C1trusOrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
